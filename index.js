@@ -3,6 +3,8 @@ const app = express();
 const port = 5000;
 const chefs = require('./chef-data/chef-data.json');
 const recipes = require('./chef-data/recipes.json');
+const cors = require('cors');
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Bangla Foods is Running')
