@@ -6,30 +6,87 @@
         "years_of_experience": 10,
         "num_recipes": 4,
         "total_likes": 500,
+        "description": "A high quality and top rated chef from Rangamati. ",
         "recipes": [
             {
                 "id": 1,
                 "title": "Shorshe Ilish",
                 "description": "A popular Bengali dish made with Hilsa fish and mustard sauce.",
-                "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg"
+                "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+                "cooking_method": "To prepare Sorse Ilish, clean and wash the Hilsa fish thoroughly. Marinate the fish with salt and turmeric powder and keep it aside for 10-15 minutes. Grind mustard seeds with green chilies to form a smooth paste. Heat mustard oil in a pan until it is smoking hot. Add the mustard paste and sauté for a few minutes until the oil starts separating from the mixture. Add a cup of water to the mixture and let it come to a boil. Once the gravy starts boiling, add the marinated Hilsa fish to the pan. Reduce the heat to medium and cook the fish for 10-15 minutes or until it is cooked through. Turn off the heat and let it rest for a few minutes before serving. Sorse Ilish is best served with steamed rice and a side of green chillies.",
+                "ingredients": [
+                    "Hilsa Fish (Ilish)",
+                    "Mustard Seeds (Sarse)",
+                    "Turmeric Powder (Halud)",
+                    "Green Chillies (Kacha Lanka)",
+                    "Salt (Lobon)",
+                    "Mustard Oil (Sarser Tel)"
+                ]
             },
             {
                 "id": 2,
                 "title": "Chingri Malai Curry",
                 "description": "A delicious Bengali prawn curry made with coconut milk.",
-                "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg"
+                "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg",
+                "ingredients": [
+                    "Prawns (Chingri)",
+                    "Coconut Milk (Narkel Korma)",
+                    "Onion Paste (Peyaj Bata)",
+                    "Ginger Paste (Ada Bata)",
+                    "Garlic Paste (Rasun Bata)",
+                    "Green Chillies (Kacha Lanka)",
+                    "Turmeric Powder (Halud Guro)",
+                    "Red Chilli Powder (Sukhno Lankar Guro)",
+                    "Cumin Powder (Jeera Guro)",
+                    "Salt (Lobon)",
+                    "Mustard Oil (Sarser Tel)",
+                    "Ghee (Ghee)"
+                ],
+                "cooking_method": "To prepare Chingri Malai Curry, heat mustard oil in a pan and add onion paste, ginger paste, garlic paste, green chillies, turmeric powder, red chilli powder, cumin powder, and salt. Sauté the mixture until the oil starts separating from it. Add the prawns and cook for a few minutes. Add the coconut milk and bring the mixture to a boil. Simmer until the prawns are cooked through and the sauce has thickened. Add a dollop of ghee and stir well. Serve hot with steamed rice."
             },
             {
                 "id": 3,
                 "title": "Dhokar Dalna",
                 "description": "A vegetarian Bengali curry made with lentil cakes and potato.",
-                "image": "https://c.ndtvimg.com/2023-05/31e5nftg_kadhai_625x300_03_May_23.jpg?im=FaceCrop,algorithm=dnn,width=345,height=250?downsize=145:145"
+                "image": "https://c.ndtvimg.com/2023-05/31e5nftg_kadhai_625x300_03_May_23.jpg?im=FaceCrop,algorithm=dnn,width=345,height=250?downsize=145:145",
+                "ingredients": [
+                    "Chana Dal (Bengal Gram) - 1 cup",
+                    "Turmeric Powder (Halud Guro) - 1/2 tsp",
+                    "Red Chilli Powder (Sukhno Lankar Guro) - 1 tsp",
+                    "Cumin Powder (Jeera Guro) - 1 tsp",
+                    "Coriander Powder (Dhania Guro) - 1 tsp",
+                    "Salt (Lobon) - to taste",
+                    "Mustard Oil (Sarser Tel) - 2 tbsp",
+                    "Tomato (Chopped) - 1 medium-sized",
+                    "Ginger Paste (Ada Bata) - 1 tbsp",
+                    "Green Chillies (Kacha Lanka) - 2-3",
+                    "Cumin Seeds (Jeera) - 1 tsp",
+                    "Bay Leaf (Tej Pata) - 1",
+                    "Cinnamon Stick (Dalchini) - 1 inch",
+                    "Cardamom (Elaichi) - 2-3",
+                    "Cloves (Laung) - 2-3",
+                    "Sugar (Chini) - 1 tsp",
+                    "Garam Masala Powder - 1/2 tsp",
+                    "Ghee - 1 tsp"
+                ],
+                "cooking_method": "To prepare Dhokar Dalna, soak chana dal in water for 3-4 hours. Drain the water and grind the dal into a smooth paste. Add turmeric powder, red chilli powder, cumin powder, coriander powder, and salt to the dal paste and mix well. Heat mustard oil in a pan and add the dal mixture. Cook on low heat, stirring continuously, until the mixture thickens and leaves the sides of the pan. Remove from heat and pour the mixture into a greased plate or tray. Allow it to cool and set for 30 minutes. Cut the set dal into small diamond shapes. Heat oil in a pan and fry the dal cakes until golden brown. Set aside. In the same pan, add cumin seeds, bay leaf, cinnamon stick, cardamom, and cloves. Sauté until the spices release their aroma. Add chopped tomato, ginger paste, green chillies, turmeric powder, red chilli powder, and salt. Cook until the tomatoes are soft and the mixture forms a thick gravy. Add water and sugar and bring to a boil. Add the fried dal cakes to the gravy and simmer for 5-7 minutes. Add garam masala powder and ghee, and stir well. Serve hot with steamed rice or paratha."
             },
             {
                 "id": 4,
                 "title": "Ras Malai",
                 "description": "A popular Bengali dessert made with chhena (cottage cheese) and milk syrup.",
-                "image": "https://imagevars.gulfnews.com/2022/07/27/Ras-malai_1823fdf0779_large.jpg"
+                "image": "https://imagevars.gulfnews.com/2022/07/27/Ras-malai_1823fdf0779_large.jpg",
+                "ingredients": [
+                    "Milk (Dudh) - 1 litre",
+                    "Lemon Juice (Lebur Rass) - 2 tbsp",
+                    "Sugar (Chini) - 1 cup",
+                    "Water (Jal) - 4 cups",
+                    "Cardamom Powder (Elaichi Guro) - 1/2 tsp",
+                    "Rose Water (Golap Jal) - 1 tsp",
+                    "Pistachios (Pesta Badam) - 2 tbsp, chopped",
+                    "Saffron (Kesar) - a pinch"
+                ],
+                "cooking_method": "To prepare Ras Malai, heat milk in a heavy-bottomed pan and bring to a boil. Add lemon juice and stir well. The milk will curdle and the whey will separate. Turn off the heat and let it sit for 2-3 minutes. Pour the curdled milk through a muslin cloth or a fine mesh strainer to separate the cheese (chenna) and the whey. Rinse the cheese under running water to remove any traces of lemon juice. Squeeze out the excess water and knead the cheese until it becomes smooth and free of lumps. Divide the cheese into small portions and roll them into smooth balls. In a separate pan, combine water and sugar and bring to a boil. Add the cheese balls to the syrup and simmer for 15-20 minutes, or until the cheese balls are cooked and have doubled in size. In the meantime, heat milk in another pan and bring to a boil. Reduce the heat and simmer until the milk thickens and reduces to half its original volume. Add cardamom powder, saffron, and rose water. Stir well. Remove the cheese balls from the syrup and gently squeeze out the excess syrup. Add the cheese balls to the thickened milk and let it cool. Chill in the refrigerator for at least an hour. Garnish with chopped pistachios and serve chilled."
             }
         ]
     },
@@ -40,36 +97,101 @@
         "years_of_experience": 5,
         "num_recipes": 5,
         "total_likes": 300,
+        "description": "A top rated and popular chef from Khulna. ",
         "recipes": [
             {
                 "id": 5,
                 "title": "Aloo Posto",
                 "description": "A popular Bengali vegetarian dish made with potatoes and poppy seeds.",
-                "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1"
+                "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1",
+                "ingredients": [
+                    "Potatoes (Aloo) - 4 medium-sized, peeled and cubed",
+                    "Poppy Seeds (Posto) - 1/2 cup",
+                    "Green Chilies (Kacha Lanka) - 2-3, slit",
+                    "Mustard Oil (Sarser Tel) - 3 tbsp",
+                    "Turmeric Powder (Halud Guro) - 1/2 tsp",
+                    "Salt (Laban) - to taste",
+                    "Sugar (Chini) - 1 tsp",
+                    "Water (Jal) - 1 cup"
+                ],
+                "cooking_method": "To prepare Aloo Posto, soak the poppy seeds in water for 1 hour. Drain the water and grind the poppy seeds to a smooth paste using a mortar and pestle or a food processor. Heat mustard oil in a pan and add the cubed potatoes. Fry until the potatoes turn golden brown. Remove the potatoes from the pan and keep aside. In the same pan, add the poppy seed paste and fry for 2-3 minutes, stirring continuously. Add turmeric powder, salt, and slit green chilies. Mix well and fry for another 2-3 minutes. Add 1 cup of water and mix well. Add fried potatoes, sugar, and mix well. Cover and simmer for 10-12 minutes, or until the potatoes are cooked and the gravy thickens. Serve hot with steamed rice."
             },
             {
                 "id": 6,
                 "title": "Mishti Pulao",
                 "description": "A sweet and aromatic Bengali rice dish made with raisins and cashews.",
-                "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg"
+                "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg",
+                "ingredients": [
+                    "Basmati Rice (Chal) - 1 cup",
+                    "Sugar (Chini) - 1/2 cup",
+                    "Ghee - 1/4 cup",
+                    "Raisins (Kismis) - 1/4 cup",
+                    "Cashew Nuts (Kaju) - 1/4 cup",
+                    "Green Cardamom (Chhoto Elaichi) - 4-5 pods",
+                    "Cinnamon (Daruchini) - 1-inch stick",
+                    "Bay Leaf (Tej Patta) - 1",
+                    "Cloves (Labongo) - 4-5",
+                    "Salt (Laban) - to taste",
+                    "Water (Jal) - 2 cups"
+                ],
+                "cooking_method": "To prepare Mishti Pulao, rinse the rice thoroughly and soak it in water for 30 minutes. Drain the water and keep aside. Heat ghee in a pan and fry the cashew nuts and raisins until they turn golden brown. Remove them from the pan and keep aside. In the same pan, add bay leaf, cinnamon, cloves, and green cardamom. Fry for 1-2 minutes, or until fragrant. Add the drained rice and fry for 2-3 minutes, stirring continuously. Add water, sugar, and salt. Mix well and bring to a boil. Reduce the heat, cover, and simmer for 15-20 minutes, or until the rice is cooked and the water is absorbed. Fluff the rice with a fork and add fried cashews and raisins. Mix well and serve hot."
             },
             {
                 "id": 7,
                 "title": "Begun Bhaja",
                 "description": "A popular Bengali snack made with fried eggplant slices.",
-                "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bengali-Begun-Bhaja-2-1.jpg"
+                "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bengali-Begun-Bhaja-2-1.jpg",
+                "ingredients": [
+                    "Eggplant (Begun) - 1 large, sliced",
+                    "Turmeric Powder (Halud Guro) - 1/2 tsp",
+                    "Red Chili Powder (Sukhno Lanka Guro) - 1/2 tsp",
+                    "Coriander Powder (Dhoney Guro) - 1 tsp",
+                    "Cumin Powder (Jeera Guro) - 1 tsp",
+                    "Salt (Laban) - to taste",
+                    "Mustard Oil (Sarser Tel) - 3-4 tbsp"
+                ],
+                "cooking_method": "To prepare Begun Bhaja, wash and slice the eggplant into round or oval shapes, about 1/4 inch thick. Mix turmeric powder, red chili powder, coriander powder, cumin powder, and salt in a small bowl. Rub this spice mixture on both sides of the eggplant slices. Heat mustard oil in a shallow pan over medium heat. Once the oil is hot, add the eggplant slices in a single layer. Fry until golden brown on one side, then flip and fry the other side until golden brown. Remove the fried eggplant slices from the pan and place them on a paper towel to remove any excess oil. Serve hot with steamed rice and dal, or as a side dish with any main course."
             },
             {
                 "id": 8,
                 "title": "Rasmalai Cake",
                 "description": "A fusion dessert combining traditional Bengali rasmalai with cake.",
-                "image": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2021/03/Eggless-Rasmalai-Cake-Recipe.jpg&nocache=1"
+                "image": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2021/03/Eggless-Rasmalai-Cake-Recipe.jpg&nocache=1",
+                "ingredients": [
+                    "All-Purpose Flour (Maida) - 1 1/2 cups",
+                    "Baking Powder - 1 1/2 tsp",
+                    "Salt - 1/2 tsp",
+                    "Butter - 1/2 cup, softened",
+                    "Granulated Sugar - 1 cup",
+                    "Eggs - 2",
+                    "Milk - 1/2 cup",
+                    "Rasmalai - 8 pieces",
+                    "Whipped Cream - 2 cups",
+                    "Saffron Strands (Kesar) - a pinch, for garnish"
+                ],
+                "cooking_method": "To prepare Rasmalai Cake, preheat the oven to 350°F (180°C). Grease and line a 9-inch (23 cm) cake pan with parchment paper. In a medium bowl, whisk together all-purpose flour, baking powder, and salt. In a separate large bowl, cream butter and sugar together until light and fluffy. Add eggs, one at a time, beating well after each addition. Gradually add flour mixture and milk to the butter mixture, alternating between the two, and mixing until just combined. Pour the batter into the prepared cake pan. Place the rasmalai pieces on top of the cake batter, pressing them down slightly. Bake for 35-40 minutes, or until a toothpick inserted into the center of the cake comes out clean. Remove the cake from the oven and let it cool completely. Once the cake has cooled, spread whipped cream on top of the cake, covering the rasmalai pieces. Garnish with saffron strands, if desired. Refrigerate for at least an hour before serving. Enjoy!"
             },
             {
                 "id": 9,
                 "title": "Machher Jhol",
                 "description": "A simple Bengali fish curry made with vegetables and spices.",
-                "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg"
+                "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg",
+                "ingredients": [
+                    "Fish (Rohu or Katla) - 4-5 pieces, cleaned and cut into slices",
+                    "Potato (Aloo) - 2 medium-sized, peeled and cut into cubes",
+                    "Tomato (Tamatar) - 1 medium-sized, chopped",
+                    "Onion (Peyaj) - 1 medium-sized, sliced",
+                    "Ginger Paste (Ada Bata) - 1 tsp",
+                    "Garlic Paste (Rasun Bata) - 1 tsp",
+                    "Turmeric Powder (Halud Guro) - 1 tsp",
+                    "Red Chili Powder (Sukhno Lanka Guro) - 1 tsp",
+                    "Cumin Powder (Jeera Guro) - 1 tsp",
+                    "Coriander Powder (Dhoney Guro) - 1 tsp",
+                    "Salt (Laban) - to taste",
+                    "Mustard Oil (Sarser Tel) - 3-4 tbsp",
+                    "Water - 2 cups"
+                ],
+                "cooking_method": "To prepare Machher Jhol, heat mustard oil in a pan over medium heat. Once the oil is hot, add sliced onions and fry until golden brown. Add ginger paste and garlic paste, and fry for a minute. Add chopped tomatoes and cook until the tomatoes are soft and mushy. Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt, and mix well. Add cubed potatoes and fry for a minute. Add 2 cups of water and bring it to a boil. Once the water is boiling, add fish slices and cover the pan. Cook for 10-15 minutes, or until the fish is cooked through and the potatoes are soft. Turn off the heat and let it sit for 5 minutes. Machher Jhol is ready to be served with steamed rice. Enjoy!"
             }
         ]
     },
@@ -80,42 +202,139 @@
         "years_of_experience": 8,
         "num_recipes": 6,
         "total_likes": 600,
+        "description": "A high quality and top rated chef from Dhaka. ",
         "recipes": [
             {
                 "id": 10,
                 "title": "Kosha Mangsho",
                 "description": "A slow-cooked Bengali mutton curry with a rich and spicy gravy.",
-                "image": "https://www.whiskaffair.com/wp-content/uploads/2021/01/Kosha-Mangsho-2-1.jpg"
+                "image": "https://www.whiskaffair.com/wp-content/uploads/2021/01/Kosha-Mangsho-2-1.jpg",
+                "ingredients": [
+                    "Mutton (Lamb) - 1 kg, cut into medium-sized pieces",
+                    "Onions (Peyaj) - 4 medium-sized, finely sliced",
+                    "Ginger Paste (Ada Bata) - 1 tbsp",
+                    "Garlic Paste (Rasun Bata) - 1 tbsp",
+                    "Tomatoes (Tamatar) - 2 medium-sized, finely chopped",
+                    "Yogurt (Doi) - 1 cup",
+                    "Red Chili Powder (Sukhno Lanka Guro) - 1 tsp",
+                    "Cumin Powder (Jeera Guro) - 2 tsp",
+                    "Coriander Powder (Dhoney Guro) - 2 tsp",
+                    "Turmeric Powder (Halud Guro) - 1 tsp",
+                    "Bay Leaves (Tej Pata) - 2",
+                    "Cloves (Labanga) - 4",
+                    "Green Cardamom (Choto Elaichi) - 4",
+                    "Cinnamon Stick (Daruchini) - 1 inch",
+                    "Salt (Laban) - to taste",
+                    "Mustard Oil (Sarser Tel) - 4-5 tbsp",
+                    "Water - 2 cups"
+                ],
+                "cooking_method": "To prepare Kosha Mangsho, heat mustard oil in a pan over medium heat. Add bay leaves, cloves, green cardamom, and cinnamon stick, and fry for a few seconds. Add sliced onions and fry until they turn golden brown. Add ginger paste and garlic paste, and fry for a minute. Add chopped tomatoes and cook until the tomatoes are soft and mushy. Add red chili powder, cumin powder, coriander powder, turmeric powder, and salt, and mix well. Add mutton pieces and fry until they turn brown. Add yogurt and mix well. Cover the pan and let it cook for 10-15 minutes. Once the yogurt is well incorporated, add 2 cups of water and bring it to a boil. Once the water is boiling, reduce the heat to low and cover the pan. Let it simmer for 1-1.5 hours, or until the mutton is tender and the gravy has thickened. Turn off the heat and let it sit for 5 minutes. Kosha Mangsho is ready to be served with steamed rice. Enjoy!"
             },
             {
                 "id": 11,
                 "title": "Chhanar Payesh",
                 "description": "A creamy and delicious Bengali dessert made with chhena (cottage cheese) and rice.",
-                "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/10/Chanar-payesh.jpg"
+                "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/10/Chanar-payesh.jpg",
+                "ingredients": [
+                    "Milk (Dudh) - 2 liters",
+                    "Lemon Juice (Lebur Rass) - 2-3 tbsp",
+                    "Sugar (Chini) - 1 cup",
+                    "Green Cardamom (Choto Elaichi) - 2-3, crushed",
+                    "Saffron (Kesar) - a few strands",
+                    "Water (Jal) - 1/4 cup",
+                    "Pistachios (Pesta Badam) - 1 tbsp, sliced"
+                ],
+                "cooking_method": "To prepare Chhanar Payesh, heat the milk in a heavy-bottomed pan over medium heat. Once the milk comes to a boil, reduce the heat to low and add lemon juice gradually while stirring continuously. Keep stirring until the milk curdles completely. Remove from heat and let it sit for 5-10 minutes. Strain the curdled milk through a muslin cloth and rinse it with cold water to remove the lemony flavor. Squeeze out the excess water from the chhena and transfer it to a plate. Knead the chhena for a few minutes until it becomes smooth and there are no lumps. Shape the chhena into small balls or small flat discs (depending on your preference). Heat water in a pan and add sugar, crushed green cardamom, and saffron strands. Stir until the sugar dissolves completely and the syrup thickens a bit. Add the chhena balls or discs to the syrup and let it cook on low heat for 10-15 minutes or until the chhena is cooked through. Stir occasionally to ensure the chhena doesn't stick to the bottom of the pan. Turn off the heat and let it cool to room temperature. Garnish with sliced pistachios and refrigerate for a few hours before serving. Chhanar Payesh is ready to be served chilled. Enjoy!"
             },
             {
                 "id": 12,
                 "title": "Macher Kalia",
                 "description": "A spicy Bengali fish curry made with tomato and onion.",
-                "image": "https://kitchenofdebjani.com/wp-content/uploads/2018/10/Biyebarir-Macher-Kalia-Debjanir-Rannaghar.jpg"
+                "image": "https://kitchenofdebjani.com/wp-content/uploads/2018/10/Biyebarir-Macher-Kalia-Debjanir-Rannaghar.jpg",
+                "ingredients": [
+                    "Fish (Rui or Katla) - 500 grams, cut into pieces",
+                    "Mustard Oil (Sarser Tel) - 4 tbsp",
+                    "Onion (Peyaj) - 2 medium-sized, chopped",
+                    "Ginger Paste (Ada Bata) - 1 tbsp",
+                    "Garlic Paste (Rasun Bata) - 1 tbsp",
+                    "Tomato (Tomato) - 1 large-sized, chopped",
+                    "Cumin Powder (Jeera Guro) - 1 tsp",
+                    "Coriander Powder (Dhane Guro) - 1 tsp",
+                    "Turmeric Powder (Halud Guro) - 1 tsp",
+                    "Red Chilli Powder (Sukhno Lankar Guro) - 1 tsp",
+                    "Salt (Laban) - to taste",
+                    "Water (Jal) - 1 cup",
+                    "Green Chilli (Kacha Lanka) - 2-3, slit",
+                    "Garam Masala Powder - 1 tsp",
+                    "Fresh Coriander Leaves (Dhane Pata) - 2 tbsp, chopped"
+                ],
+                "cooking_method": "To prepare Macher Kalia, heat mustard oil in a deep-bottomed pan or kadai over medium heat. Add chopped onions and sauté until they turn translucent. Add ginger paste and garlic paste and sauté for a minute or two. Add chopped tomatoes and cook until the tomatoes are soft and mushy. Add cumin powder, coriander powder, turmeric powder, and red chilli powder, and mix well. Add salt to taste and fry the masala for a few minutes until the oil separates from the masala. Add the fish pieces and coat them with the masala. Add water and bring the curry to a boil. Reduce the heat to low, cover the pan, and let it simmer for 10-15 minutes or until the fish is cooked through. Add slit green chillies, garam masala powder, and chopped fresh coriander leaves, and mix well. Simmer for another 2-3 minutes. Turn off the heat and let it sit for a few minutes. Macher Kalia is ready to be served hot with steamed rice. Enjoy!"
             },
             {
                 "id": 13,
                 "title": "Shukto",
                 "description": "A traditional Bengali vegetarian dish made with bitter gourd and other vegetables.",
-                "image": "https://www.myfridayfoodswings.com/wp-content/uploads/2017/06/shukto-2.jpg"
+                "image": "https://www.myfridayfoodswings.com/wp-content/uploads/2017/06/shukto-2.jpg",
+                "ingredients": [
+                    "Bitter Gourd (Korola) - 1 medium-sized, sliced",
+                    "Raw Banana (Kachkola) - 1 medium-sized, sliced",
+                    "Sweet Potato (Mishti Aloo) - 1 medium-sized, cubed",
+                    "Drumsticks (Sajna) - 1-2, cut into 2-inch pieces",
+                    "Eggplant (Begun) - 1 medium-sized, cubed",
+                    "Potato (Aloo) - 1 medium-sized, cubed",
+                    "Ridge Gourd (Jhinge) - 1 medium-sized, sliced",
+                    "Mustard Oil (Sarser Tel) - 2-3 tbsp",
+                    "Panch Phoron - 1 tsp (a mix of fenugreek, nigella, cumin, mustard and fennel seeds)",
+                    "Bay Leaf (Tej Pata) - 1",
+                    "Green Chilli (Kacha Lanka) - 2-3, slit",
+                    "Ginger Paste (Ada Bata) - 1 tbsp",
+                    "Turmeric Powder (Halud Guro) - 1 tsp",
+                    "Milk (Dudh) - 1/2 cup",
+                    "Sugar (Chini) - 1-2 tsp",
+                    "Salt (Laban) - to taste"
+                ],
+                "cooking_method": "To prepare Shukto, heat mustard oil in a deep-bottomed pan or kadai over medium heat. Add panch phoron and bay leaf and let it splutter. Add bitter gourd, raw banana, sweet potato, drumsticks, eggplant, potato and ridge gourd to the pan, and stir-fry for 2-3 minutes. Add ginger paste, turmeric powder and salt to the vegetables, and mix well. Add water to the pan and bring it to a boil. Reduce the heat to low and let it simmer for 10-15 minutes or until the vegetables are cooked through. Add milk, sugar and slit green chillies to the pan and stir well. Simmer for another 2-3 minutes. Turn off the heat and let it sit for a few minutes. Shukto is ready to be served hot with steamed rice. Enjoy!"
             },
             {
                 "id": 14,
                 "title": "Luchi",
                 "description": "A popular Bengali deep-fried flatbread made with maida flour.",
-                "image": "https://i0.wp.com/www.foodieshutrecipes.com/wp-content/uploads/2019/06/Luchi-Mangsho-Gajarer-haluwa.jpg?w=1080&ssl=1"
+                "image": "https://i0.wp.com/www.foodieshutrecipes.com/wp-content/uploads/2019/06/Luchi-Mangsho-Gajarer-haluwa.jpg?w=1080&ssl=1",
+                "ingredients": [
+                    "All-purpose Flour (Maida) - 2 cups",
+                    "Vegetable Oil - 2 tbsp",
+                    "Salt - 1/2 tsp",
+                    "Water - 3/4 to 1 cup",
+                    "Vegetable Oil - for deep frying"
+                ],
+                "cooking_method": "To make Luchi, sift the all-purpose flour and salt together in a large mixing bowl. Add vegetable oil to the flour and mix well. Gradually add water to the flour mixture and knead it into a soft and smooth dough. Cover the dough and let it rest for 30 minutes. Heat vegetable oil in a deep-bottomed pan or kadai over medium heat. Take a small ball of the dough and roll it out into a small circle on a floured surface. Carefully drop the rolled-out dough into the hot oil and fry until it puffs up and turns golden brown on both sides. Use a slotted spoon to remove the fried Luchi from the oil and place it on a paper towel to drain off excess oil. Repeat with the rest of the dough. Serve hot with any curry or side dish of your choice. Enjoy!"
             },
             {
                 "id": 15,
                 "title": "Doi Maach",
                 "description": "A tangy Bengali fish curry made with yogurt and spices.",
-                "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Sai_Priya/Doi_Maach_1600.jpg"
+                "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Sai_Priya/Doi_Maach_1600.jpg",
+                "ingredients": [
+                    "Fish (Rohu or Katla) - 500 grams",
+                    "Yogurt - 1/2 cup",
+                    "Onion - 1 large, finely chopped",
+                    "Garlic - 6-7 cloves, minced",
+                    "Ginger - 1 inch, grated",
+                    "Green Chili - 2-3, slit",
+                    "Turmeric Powder - 1 tsp",
+                    "Red Chili Powder - 1 tsp",
+                    "Cumin Powder - 1 tsp",
+                    "Coriander Powder - 1 tsp",
+                    "Bay Leaf - 1",
+                    "Cinnamon Stick - 1 inch",
+                    "Cardamom Pods - 2-3",
+                    "Cloves - 2-3",
+                    "Sugar - 1 tsp",
+                    "Salt - to taste",
+                    "Mustard Oil - 3-4 tbsp",
+                    "Water - 1 cup"
+                ],
+                "cooking_method": "To make Doi Maach, marinate the fish pieces with 1/2 tsp of turmeric powder and salt for 10-15 minutes. Heat mustard oil in a pan over medium heat. Add the fish pieces to the pan and fry until they turn golden brown on both sides. Remove the fish from the pan and set it aside. In the same pan, add bay leaf, cinnamon stick, cardamom pods, and cloves and sauté for a minute. Add the chopped onions and fry until they turn translucent. Add ginger and garlic and fry for another minute. Add the cumin powder, coriander powder, red chili powder, and remaining turmeric powder and fry for a minute. Add the water and bring it to a boil. Add the fried fish to the pan and cook on medium heat for 5-7 minutes. In a separate bowl, whisk the yogurt with sugar and salt. Add the yogurt mixture to the pan and stir well. Add the green chilies and simmer on low heat for another 5-7 minutes until the gravy thickens. Serve hot with steamed rice. Enjoy!"
             }
         ]
     },
@@ -126,36 +345,93 @@
         "years_of_experience": 10,
         "num_recipes": 5,
         "total_likes": 750,
+        "description": "One of the Smartest chef in Bangladesh. from Chittagong",
         "recipes": [
             {
                 "id": 16,
                 "title": "Shorshe Ilish",
                 "description": "A delicious Bengali fish curry made with mustard paste and ilish (hilsa) fish.",
-                "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg"
+                "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+                "cooking_method": "To prepare Sorse Ilish, clean and wash the Hilsa fish thoroughly. Marinate the fish with salt and turmeric powder and keep it aside for 10-15 minutes. Grind mustard seeds with green chilies to form a smooth paste. Heat mustard oil in a pan until it is smoking hot. Add the mustard paste and sauté for a few minutes until the oil starts separating from the mixture. Add a cup of water to the mixture and let it come to a boil. Once the gravy starts boiling, add the marinated Hilsa fish to the pan. Reduce the heat to medium and cook the fish for 10-15 minutes or until it is cooked through. Turn off the heat and let it rest for a few minutes before serving. Sorse Ilish is best served with steamed rice and a side of green chillies.",
+                "ingredients": [
+                    "Hilsa Fish (Ilish)",
+                    "Mustard Seeds (Sarse)",
+                    "Turmeric Powder (Halud)",
+                    "Green Chillies (Kacha Lanka)",
+                    "Salt (Lobon)",
+                    "Mustard Oil (Sarser Tel)"
+                ]
             },
             {
                 "id": 17,
                 "title": "Aloo Posto",
                 "description": "A classic Bengali vegetarian dish made with potato and poppy seeds.",
-                "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1"
+                "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1",
+                "ingredients": [
+                    "Potatoes (Aloo) - 4 medium-sized, peeled and cubed",
+                    "Poppy Seeds (Posto) - 1/2 cup",
+                    "Green Chilies (Kacha Lanka) - 2-3, slit",
+                    "Mustard Oil (Sarser Tel) - 3 tbsp",
+                    "Turmeric Powder (Halud Guro) - 1/2 tsp",
+                    "Salt (Laban) - to taste",
+                    "Sugar (Chini) - 1 tsp",
+                    "Water (Jal) - 1 cup"
+                ],
+                "cooking_method": "To prepare Aloo Posto, soak the poppy seeds in water for 1 hour. Drain the water and grind the poppy seeds to a smooth paste using a mortar and pestle or a food processor. Heat mustard oil in a pan and add the cubed potatoes. Fry until the potatoes turn golden brown. Remove the potatoes from the pan and keep aside. In the same pan, add the poppy seed paste and fry for 2-3 minutes, stirring continuously. Add turmeric powder, salt, and slit green chilies. Mix well and fry for another 2-3 minutes. Add 1 cup of water and mix well. Add fried potatoes, sugar, and mix well. Cover and simmer for 10-12 minutes, or until the potatoes are cooked and the gravy thickens. Serve hot with steamed rice."
             },
             {
                 "id": 18,
                 "title": "Bhetki Paturi",
                 "description": "A traditional Bengali fish dish marinated in spices and cooked in banana leaves.",
-                "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/moumita.malla-gmail.com/Bhetki_Macher_PaturiBarramundi_Fish_Wrapped_in_Banana_Leaf_original-3_1600.jpg"
+                "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/moumita.malla-gmail.com/Bhetki_Macher_PaturiBarramundi_Fish_Wrapped_in_Banana_Leaf_original-3_1600.jpg",
+                "ingredients": [
+                    "Bhetki fish - 4 fillets",
+                    "Mustard paste - 4 tbsp",
+                    "Poppy seed paste - 2 tbsp",
+                    "Coconut paste - 2 tbsp",
+                    "Green chili paste - 2 tsp",
+                    "Turmeric powder - 1 tsp",
+                    "Red chili powder - 1 tsp",
+                    "Salt - to taste",
+                    "Mustard oil - 2 tbsp",
+                    "Banana leaves - 4"
+                ],
+                "cooking_method": "To make Bhetki Paturi, clean the fish fillets and pat them dry. In a bowl, mix together mustard paste, poppy seed paste, coconut paste, green chili paste, turmeric powder, red chili powder, salt and mustard oil. Marinate the fish fillets with the mixture for 30 minutes. Preheat oven to 180°C. Cut banana leaves into rectangular pieces of approximately 12 x 8 inches. Place a fish fillet on one side of a banana leaf. Fold the other side of the banana leaf over the fish fillet, and fold the edges of the banana leaf to make a packet. Repeat with the remaining fish fillets. Place the packets on a baking sheet and bake in the oven for 15-20 minutes. Serve hot with steamed rice. Enjoy!"
             },
             {
                 "id": 19,
                 "title": "Chingri Macher Malai Curry",
                 "description": "A creamy Bengali prawn curry made with coconut milk and spices.",
-                "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg"
+                "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg",
+                "ingredients": [
+                    "Prawns (Chingri)",
+                    "Coconut Milk (Narkel Korma)",
+                    "Onion Paste (Peyaj Bata)",
+                    "Ginger Paste (Ada Bata)",
+                    "Garlic Paste (Rasun Bata)",
+                    "Green Chillies (Kacha Lanka)",
+                    "Turmeric Powder (Halud Guro)",
+                    "Red Chilli Powder (Sukhno Lankar Guro)",
+                    "Cumin Powder (Jeera Guro)",
+                    "Salt (Lobon)",
+                    "Mustard Oil (Sarser Tel)",
+                    "Ghee (Ghee)"
+                ],
+                "cooking_method": "To prepare Chingri Malai Curry, heat mustard oil in a pan and add onion paste, ginger paste, garlic paste, green chillies, turmeric powder, red chilli powder, cumin powder, and salt. Sauté the mixture until the oil starts separating from it. Add the prawns and cook for a few minutes. Add the coconut milk and bring the mixture to a boil. Simmer until the prawns are cooked through and the sauce has thickened. Add a dollop of ghee and stir well. Serve hot with steamed rice."
             },
             {
                 "id": 20,
                 "title": "Mishti Doi",
                 "description": "A sweet Bengali dessert made with caramelized sugar and yogurt.",
-                "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/02/mishti-doi-recipe02.jpg"
+                "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/02/mishti-doi-recipe02.jpg",
+                "ingredients": [
+                    "Milk - 1 liter",
+                    "Yogurt - 2 tbsp",
+                    "Sugar - 1 cup",
+                    "Cardamom powder - 1 tsp",
+                    "Earthen pots - 6"
+                ],
+                "cooking_method": "To make Mishti Doi, first boil the milk and reduce it to half on low heat. Once the milk has cooled down to lukewarm temperature, add the yogurt and mix well. In a separate pan, melt the sugar on low heat till it turns brown. Take care not to burn the sugar. Once the sugar has melted and turned brown, remove from heat and add some water to make a syrup. Add the syrup to the milk and yogurt mixture and stir well. Add cardamom powder and mix well. Pour the mixture into earthen pots. Cover the pots with a lid or a piece of cloth and keep it aside for 6-8 hours or overnight. The longer you keep it, the more sour it will become. Once the Mishti Doi has set, refrigerate it for an hour or two and serve chilled. Enjoy!"
             }
         ]
     },
@@ -166,30 +442,97 @@
         "years_of_experience": 6,
         "num_recipes": 4,
         "total_likes": 300,
+        "description": "A high quality and top rated chef from Barisal. ",
         "recipes": [
             {
                 "id": 21,
                 "title": "Mutton Rezala",
                 "description": "A flavorful Bengali mutton curry made with yogurt and a variety of spices.",
-                "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Mutton_Rezala_.jpg"
+                "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Mutton_Rezala_.jpg",
+                "ingredients": [
+                    "Mutton - 1 kg",
+                    "Onions - 2 large, sliced",
+                    "Garlic paste - 1 tbsp",
+                    "Ginger paste - 1 tbsp",
+                    "Yogurt - 1 cup",
+                    "Cashew nuts - 1/2 cup",
+                    "Poppy seed paste - 2 tbsp",
+                    "Cumin powder - 1 tsp",
+                    "Coriander powder - 1 tsp",
+                    "Green cardamom - 3",
+                    "Cloves - 3",
+                    "Cinnamon stick - 1 inch",
+                    "Bay leaves - 2",
+                    "Ghee - 2 tbsp",
+                    "Salt - to taste",
+                    "Sugar - 1 tsp",
+                    "Water - 2 cups"
+                ],
+                "cooking_method": "To make Mutton Rezala, first wash and clean the mutton. In a bowl, mix together yogurt, cashew nuts, poppy seed paste, cumin powder, coriander powder, salt and sugar. Marinate the mutton with the mixture and keep it aside for 30 minutes. Heat ghee in a pan and add green cardamom, cloves, cinnamon stick and bay leaves. Add the sliced onions and fry till golden brown. Add garlic and ginger paste and fry for a minute. Add the marinated mutton and fry for 10-15 minutes. Add 2 cups of water, cover the pan and let it simmer on low heat for 1-2 hours or until the mutton is tender. Serve hot with steamed rice. Enjoy!"
             },
             {
                 "id": 22,
                 "title": "Chingrir Malaikari",
                 "description": "A rich and creamy Bengali prawn curry made with coconut milk and spices.",
-                "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg"
+                "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg",
+                "ingredients": [
+                    "Prawns (Chingri)",
+                    "Coconut Milk (Narkel Korma)",
+                    "Onion Paste (Peyaj Bata)",
+                    "Ginger Paste (Ada Bata)",
+                    "Garlic Paste (Rasun Bata)",
+                    "Green Chillies (Kacha Lanka)",
+                    "Turmeric Powder (Halud Guro)",
+                    "Red Chilli Powder (Sukhno Lankar Guro)",
+                    "Cumin Powder (Jeera Guro)",
+                    "Salt (Lobon)",
+                    "Mustard Oil (Sarser Tel)",
+                    "Ghee (Ghee)"
+                ],
+                "cooking_method": "To prepare Chingri Malai Curry, heat mustard oil in a pan and add onion paste, ginger paste, garlic paste, green chillies, turmeric powder, red chilli powder, cumin powder, and salt. Sauté the mixture until the oil starts separating from it. Add the prawns and cook for a few minutes. Add the coconut milk and bring the mixture to a boil. Simmer until the prawns are cooked through and the sauce has thickened. Add a dollop of ghee and stir well. Serve hot with steamed rice."
             },
             {
                 "id": 23,
                 "title": "Shuktoni",
                 "description": "A spicy Bengali side dish made with shukto and cooked with mustard oil.",
-                "image": "https://kitchenofdebjani.com/wp-content/uploads/2018/06/Shuktoni.jpg"
+                "image": "https://kitchenofdebjani.com/wp-content/uploads/2018/06/Shuktoni.jpg",
+                "ingredients": [
+                    "Eggplant - 1 large, cut into thin slices",
+                    "Potatoes - 2 medium, cut into thin slices",
+                    "Raw banana - 1 medium, cut into thin slices",
+                    "Radish - 1 medium, cut into thin slices",
+                    "Bitter gourd - 1 medium, cut into thin slices",
+                    "Mustard oil - 2 tbsp",
+                    "Panch phoron - 1 tsp",
+                    "Green chilies - 2-3, slit",
+                    "Turmeric powder - 1 tsp",
+                    "Salt - to taste",
+                    "Sugar - 1 tsp",
+                    "Water - 1 cup"
+                ],
+                "cooking_method": "To make Shuktoni, first heat mustard oil in a pan. Add panch phoron and let it splutter. Add eggplant, potatoes, raw banana, radish, and bitter gourd. Fry them on medium heat for 5-6 minutes. Add green chilies, turmeric powder, salt, and sugar. Mix everything well and let it cook for another 2-3 minutes. Add 1 cup of water and bring it to a boil. Cover the pan and let it simmer on low heat for 15-20 minutes or until the vegetables are cooked through. Serve hot with steamed rice. Enjoy!"
             },
             {
                 "id": 24,
                 "title": "Misti Pulao",
                 "description": "A sweet and fragrant Bengali rice dish made with saffron and raisins.",
-                "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg"
+                "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg",
+                "ingredients": [
+                    "Basmati rice - 1 cup, soaked in water for 30 minutes",
+                    "Ghee - 2 tbsp",
+                    "Cashews - 10-12",
+                    "Raisins - 1/4 cup",
+                    "Green cardamom - 4-5 pods",
+                    "Cinnamon - 1 inch stick",
+                    "Cloves - 4-5",
+                    "Bay leaf - 1",
+                    "Sugar - 1/4 cup",
+                    "Milk - 1/4 cup",
+                    "Saffron strands - a pinch",
+                    "Water - 2 cups",
+                    "Salt - to taste"
+                ],
+                "cooking_method": "To make Misti Pulao, first heat ghee in a pan. Add cashews and raisins. Fry them till the cashews turn golden brown and the raisins puff up. Remove them from the pan and keep them aside. In the same pan, add green cardamom, cinnamon, cloves, and bay leaf. Fry them for a few seconds. Drain the water from the soaked rice and add it to the pan. Fry the rice on medium heat for 2-3 minutes. Add sugar and mix well. Add milk and saffron strands. Mix everything well. Add 2 cups of water and salt. Mix well and cover the pan. Cook on low heat for 15-20 minutes or until the rice is cooked through. Fluff the rice with a fork. Add the fried cashews and raisins. Mix gently. Serve hot and enjoy!"
             }
         ]
     },
@@ -200,36 +543,101 @@
         "years_of_experience": 12,
         "num_recipes": 5,
         "total_likes": 900,
+        "description": "Top rated chef from Cumilla",
         "recipes": [
             {
                 "id": 25,
                 "title": "Aloo Posto",
                 "description": "A popular Bengali vegetarian dish made with potatoes and poppy seeds.",
-                "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1"
+                "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1",
+                "ingredients": [
+                    "Potatoes (Aloo) - 4 medium-sized, peeled and cubed",
+                    "Poppy Seeds (Posto) - 1/2 cup",
+                    "Green Chilies (Kacha Lanka) - 2-3, slit",
+                    "Mustard Oil (Sarser Tel) - 3 tbsp",
+                    "Turmeric Powder (Halud Guro) - 1/2 tsp",
+                    "Salt (Laban) - to taste",
+                    "Sugar (Chini) - 1 tsp",
+                    "Water (Jal) - 1 cup"
+                ],
+                "cooking_method": "To prepare Aloo Posto, soak the poppy seeds in water for 1 hour. Drain the water and grind the poppy seeds to a smooth paste using a mortar and pestle or a food processor. Heat mustard oil in a pan and add the cubed potatoes. Fry until the potatoes turn golden brown. Remove the potatoes from the pan and keep aside. In the same pan, add the poppy seed paste and fry for 2-3 minutes, stirring continuously. Add turmeric powder, salt, and slit green chilies. Mix well and fry for another 2-3 minutes. Add 1 cup of water and mix well. Add fried potatoes, sugar, and mix well. Cover and simmer for 10-12 minutes, or until the potatoes are cooked and the gravy thickens. Serve hot with steamed rice."
             },
             {
                 "id": 26,
                 "title": "Mishti Pulao",
                 "description": "A sweet and aromatic Bengali rice dish made with raisins and cashews.",
-                "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg"
+                "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg",
+                "ingredients": [
+                    "Basmati Rice (Chal) - 1 cup",
+                    "Sugar (Chini) - 1/2 cup",
+                    "Ghee - 1/4 cup",
+                    "Raisins (Kismis) - 1/4 cup",
+                    "Cashew Nuts (Kaju) - 1/4 cup",
+                    "Green Cardamom (Chhoto Elaichi) - 4-5 pods",
+                    "Cinnamon (Daruchini) - 1-inch stick",
+                    "Bay Leaf (Tej Patta) - 1",
+                    "Cloves (Labongo) - 4-5",
+                    "Salt (Laban) - to taste",
+                    "Water (Jal) - 2 cups"
+                ],
+                "cooking_method": "To prepare Mishti Pulao, rinse the rice thoroughly and soak it in water for 30 minutes. Drain the water and keep aside. Heat ghee in a pan and fry the cashew nuts and raisins until they turn golden brown. Remove them from the pan and keep aside. In the same pan, add bay leaf, cinnamon, cloves, and green cardamom. Fry for 1-2 minutes, or until fragrant. Add the drained rice and fry for 2-3 minutes, stirring continuously. Add water, sugar, and salt. Mix well and bring to a boil. Reduce the heat, cover, and simmer for 15-20 minutes, or until the rice is cooked and the water is absorbed. Fluff the rice with a fork and add fried cashews and raisins. Mix well and serve hot."
             },
             {
                 "id": 27,
                 "title": "Begun Bhaja",
                 "description": "A popular Bengali snack made with fried eggplant slices.",
-                "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bengali-Begun-Bhaja-2-1.jpg"
+                "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bengali-Begun-Bhaja-2-1.jpg",
+                "ingredients": [
+                    "Eggplant (Begun) - 1 large, sliced",
+                    "Turmeric Powder (Halud Guro) - 1/2 tsp",
+                    "Red Chili Powder (Sukhno Lanka Guro) - 1/2 tsp",
+                    "Coriander Powder (Dhoney Guro) - 1 tsp",
+                    "Cumin Powder (Jeera Guro) - 1 tsp",
+                    "Salt (Laban) - to taste",
+                    "Mustard Oil (Sarser Tel) - 3-4 tbsp"
+                ],
+                "cooking_method": "To prepare Begun Bhaja, wash and slice the eggplant into round or oval shapes, about 1/4 inch thick. Mix turmeric powder, red chili powder, coriander powder, cumin powder, and salt in a small bowl. Rub this spice mixture on both sides of the eggplant slices. Heat mustard oil in a shallow pan over medium heat. Once the oil is hot, add the eggplant slices in a single layer. Fry until golden brown on one side, then flip and fry the other side until golden brown. Remove the fried eggplant slices from the pan and place them on a paper towel to remove any excess oil. Serve hot with steamed rice and dal, or as a side dish with any main course."
             },
             {
                 "id": 28,
                 "title": "Rasmalai Cake",
                 "description": "A fusion dessert combining traditional Bengali rasmalai with cake.",
-                "image": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2021/03/Eggless-Rasmalai-Cake-Recipe.jpg&nocache=1"
+                "image": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2021/03/Eggless-Rasmalai-Cake-Recipe.jpg&nocache=1",
+                "ingredients": [
+                    "All-Purpose Flour (Maida) - 1 1/2 cups",
+                    "Baking Powder - 1 1/2 tsp",
+                    "Salt - 1/2 tsp",
+                    "Butter - 1/2 cup, softened",
+                    "Granulated Sugar - 1 cup",
+                    "Eggs - 2",
+                    "Milk - 1/2 cup",
+                    "Rasmalai - 8 pieces",
+                    "Whipped Cream - 2 cups",
+                    "Saffron Strands (Kesar) - a pinch, for garnish"
+                ],
+                "cooking_method": "To prepare Rasmalai Cake, preheat the oven to 350°F (180°C). Grease and line a 9-inch (23 cm) cake pan with parchment paper. In a medium bowl, whisk together all-purpose flour, baking powder, and salt. In a separate large bowl, cream butter and sugar together until light and fluffy. Add eggs, one at a time, beating well after each addition. Gradually add flour mixture and milk to the butter mixture, alternating between the two, and mixing until just combined. Pour the batter into the prepared cake pan. Place the rasmalai pieces on top of the cake batter, pressing them down slightly. Bake for 35-40 minutes, or until a toothpick inserted into the center of the cake comes out clean. Remove the cake from the oven and let it cool completely. Once the cake has cooled, spread whipped cream on top of the cake, covering the rasmalai pieces. Garnish with saffron strands, if desired. Refrigerate for at least an hour before serving. Enjoy!"
             },
             {
                 "id": 29,
                 "title": "Machher Jhol",
                 "description": "A simple Bengali fish curry made with vegetables and spices.",
-                "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg"
+                "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg",
+                "ingredients": [
+                    "Fish (Rohu or Katla) - 4-5 pieces, cleaned and cut into slices",
+                    "Potato (Aloo) - 2 medium-sized, peeled and cut into cubes",
+                    "Tomato (Tamatar) - 1 medium-sized, chopped",
+                    "Onion (Peyaj) - 1 medium-sized, sliced",
+                    "Ginger Paste (Ada Bata) - 1 tsp",
+                    "Garlic Paste (Rasun Bata) - 1 tsp",
+                    "Turmeric Powder (Halud Guro) - 1 tsp",
+                    "Red Chili Powder (Sukhno Lanka Guro) - 1 tsp",
+                    "Cumin Powder (Jeera Guro) - 1 tsp",
+                    "Coriander Powder (Dhoney Guro) - 1 tsp",
+                    "Salt (Laban) - to taste",
+                    "Mustard Oil (Sarser Tel) - 3-4 tbsp",
+                    "Water - 2 cups"
+                ],
+                "cooking_method": "To prepare Machher Jhol, heat mustard oil in a pan over medium heat. Once the oil is hot, add sliced onions and fry until golden brown. Add ginger paste and garlic paste, and fry for a minute. Add chopped tomatoes and cook until the tomatoes are soft and mushy. Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt, and mix well. Add cubed potatoes and fry for a minute. Add 2 cups of water and bring it to a boil. Once the water is boiling, add fish slices and cover the pan. Cook for 10-15 minutes, or until the fish is cooked through and the potatoes are soft. Turn off the heat and let it sit for 5 minutes. Machher Jhol is ready to be served with steamed rice. Enjoy!"
             }
         ]
     }
