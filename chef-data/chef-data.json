@@ -1,0 +1,238 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "title": "Chef Rahman",
+            "profile_image": "https://example.com/chef-rahman.png",
+            "years_of_experience": 10,
+            "num_recipes": 4,
+            "total_likes": 500,
+            "recipes": [
+                {
+                    "id": 1,
+                    "title": "Shorshe Ilish",
+                    "description": "A popular Bengali dish made with Hilsa fish and mustard sauce.",
+                    "image": "https://example.com/shorshe-ilish.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Chingri Malai Curry",
+                    "description": "A delicious Bengali prawn curry made with coconut milk.",
+                    "image": "https://example.com/chingri-malai-curry.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Dhokar Dalna",
+                    "description": "A vegetarian Bengali curry made with lentil cakes and potato.",
+                    "image": "https://example.com/dhokar-dalna.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Ras Malai",
+                    "description": "A popular Bengali dessert made with chhena (cottage cheese) and milk syrup.",
+                    "image": "https://example.com/ras-malai.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Chef Nasrin",
+            "profile_image": "https://example.com/chef-nasrin.png",
+            "years_of_experience": 5,
+            "num_recipes": 5,
+            "total_likes": 300,
+            "recipes": [
+                {
+                    "id": 5,
+                    "title": "Aloo Posto",
+                    "description": "A popular Bengali vegetarian dish made with potatoes and poppy seeds.",
+                    "image": "https://example.com/aloo-posto.png"
+                },
+                {
+                    "id": 6,
+                    "title": "Mishti Pulao",
+                    "description": "A sweet and aromatic Bengali rice dish made with raisins and cashews.",
+                    "image": "https://example.com/mishti-pulao.png"
+                },
+                {
+                    "id": 7,
+                    "title": "Begun Bhaja",
+                    "description": "A popular Bengali snack made with fried eggplant slices.",
+                    "image": "https://example.com/begun-bhaja.png"
+                },
+                {
+                    "id": 8,
+                    "title": "Rasmalai Cake",
+                    "description": "A fusion dessert combining traditional Bengali rasmalai with cake.",
+                    "image": "https://example.com/rasmalai-cake.png"
+                },
+                {
+                    "id": 9,
+                    "title": "Machher Jhol",
+                    "description": "A simple Bengali fish curry made with vegetables and spices.",
+                    "image": "https://example.com/machher-jhol.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Chef Kabir",
+            "profile_image": "https://example.com/chef-kabir.png",
+            "years_of_experience": 8,
+            "num_recipes": 6,
+            "total_likes": 600,
+            "recipes": [
+                {
+                    "id": 10,
+                    "title": "Kosha Mangsho",
+                    "description": "A slow-cooked Bengali mutton curry with a rich and spicy gravy.",
+                    "image": "https://example.com/kosha-mangsho.png"
+                },
+                {
+                    "id": 11,
+                    "title": "Chhanar Payesh",
+                    "description": "A creamy and delicious Bengali dessert made with chhena (cottage cheese) and rice.",
+                    "image": "https://example.com/chhanar-payesh.png"
+                },
+                {
+                    "id": 12,
+                    "title": "Macher Kalia",
+                    "description": "A spicy Bengali fish curry made with tomato and onion.",
+                    "image": "https://example.com/macher-kalia.png"
+                },
+                {
+                    "id": 13,
+                    "title": "Shukto",
+                    "description": "A traditional Bengali vegetarian dish made with bitter gourd and other vegetables.",
+                    "image": "https://example.com/shukto.png"
+                },
+                {
+                    "id": 14,
+                    "title": "Luchi",
+                    "description": "A popular Bengali deep-fried flatbread made with maida flour.",
+                    "image": "https://example.com/luchi.png"
+                },
+                {
+                    "id": 15,
+                    "title": "Doi Maach",
+                    "description": "A tangy Bengali fish curry made with yogurt and spices.",
+                    "image": "https://example.com/doi-maach.png"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Chef Sujata",
+            "profile_image": "https://example.com/chef-sujata.png",
+            "years_of_experience": 10,
+            "num_recipes": 5,
+            "total_likes": 750,
+            "recipes": [
+                {
+                    "id": 16,
+                    "title": "Shorshe Ilish",
+                    "description": "A delicious Bengali fish curry made with mustard paste and ilish (hilsa) fish.",
+                    "image": "https://example.com/shorshe-ilish.png"
+                },
+                {
+                    "id": 17,
+                    "title": "Aloo Posto",
+                    "description": "A classic Bengali vegetarian dish made with potato and poppy seeds.",
+                    "image": "https://example.com/aloo-posto.png"
+                },
+                {
+                    "id": 18,
+                    "title": "Bhetki Paturi",
+                    "description": "A traditional Bengali fish dish marinated in spices and cooked in banana leaves.",
+                    "image": "https://example.com/bhetki-paturi.png"
+                },
+                {
+                    "id": 19,
+                    "title": "Chingri Macher Malai Curry",
+                    "description": "A creamy Bengali prawn curry made with coconut milk and spices.",
+                    "image": "https://example.com/chingri-macher-malai-curry.png"
+                },
+                {
+                    "id": 20,
+                    "title": "Mishti Doi",
+                    "description": "A sweet Bengali dessert made with caramelized sugar and yogurt.",
+                    "image": "https://example.com/mishti-doi.png"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Chef Rahul",
+            "profile_image": "https://example.com/chef-rahul.png",
+            "years_of_experience": 6,
+            "num_recipes": 4,
+            "total_likes": 300,
+            "recipes": [
+                {
+                    "id": 21,
+                    "title": "Mutton Rezala",
+                    "description": "A flavorful Bengali mutton curry made with yogurt and a variety of spices.",
+                    "image": "https://example.com/mutton-rezala.png"
+                },
+                {
+                    "id": 22,
+                    "title": "Chingrir Malaikari",
+                    "description": "A rich and creamy Bengali prawn curry made with coconut milk and spices.",
+                    "image": "https://example.com/chingrir-malaikari.png"
+                },
+                {
+                    "id": 23,
+                    "title": "Shuktoni",
+                    "description": "A spicy Bengali side dish made with shukto and cooked with mustard oil.",
+                    "image": "https://example.com/shuktoni.png"
+                },
+                {
+                    "id": 24,
+                    "title": "Misti Pulao",
+                    "description": "A sweet and fragrant Bengali rice dish made with saffron and raisins.",
+                    "image": "https://example.com/misti-pulao.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Chef Arpita",
+            "profile_image": "https://example.com/chef-arpita.png",
+            "years_of_experience": 12,
+            "num_recipes": 5,
+            "total_likes": 900,
+            "recipes": [
+                {
+                    "id": 5,
+                    "title": "Aloo Posto",
+                    "description": "A popular Bengali vegetarian dish made with potatoes and poppy seeds.",
+                    "image": "https://example.com/aloo-posto.png"
+                },
+                {
+                    "id": 6,
+                    "title": "Mishti Pulao",
+                    "description": "A sweet and aromatic Bengali rice dish made with raisins and cashews.",
+                    "image": "https://example.com/mishti-pulao.png"
+                },
+                {
+                    "id": 7,
+                    "title": "Begun Bhaja",
+                    "description": "A popular Bengali snack made with fried eggplant slices.",
+                    "image": "https://example.com/begun-bhaja.png"
+                },
+                {
+                    "id": 8,
+                    "title": "Rasmalai Cake",
+                    "description": "A fusion dessert combining traditional Bengali rasmalai with cake.",
+                    "image": "https://example.com/rasmalai-cake.png"
+                },
+                {
+                    "id": 9,
+                    "title": "Machher Jhol",
+                    "description": "A simple Bengali fish curry made with vegetables and spices.",
+                    "image": "https://example.com/machher-jhol.png"
+                }
+            ]
+        }
+    ]
+}
