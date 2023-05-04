@@ -11,6 +11,7 @@
             {
                 "id": 1,
                 "title": "Shorshe Ilish",
+                "rattings": 4.5,
                 "description": "A popular Bengali dish made with Hilsa fish and mustard sauce.",
                 "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
                 "cooking_method": "To prepare Sorse Ilish, clean and wash the Hilsa fish thoroughly. Marinate the fish with salt and turmeric powder and keep it aside for 10-15 minutes. Grind mustard seeds with green chilies to form a smooth paste. Heat mustard oil in a pan until it is smoking hot. Add the mustard paste and sauté for a few minutes until the oil starts separating from the mixture. Add a cup of water to the mixture and let it come to a boil. Once the gravy starts boiling, add the marinated Hilsa fish to the pan. Reduce the heat to medium and cook the fish for 10-15 minutes or until it is cooked through. Turn off the heat and let it rest for a few minutes before serving. Sorse Ilish is best served with steamed rice and a side of green chillies.",
@@ -26,6 +27,7 @@
             {
                 "id": 2,
                 "title": "Chingri Malai Curry",
+                "rattings": 4.0,
                 "description": "A delicious Bengali prawn curry made with coconut milk.",
                 "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg",
                 "ingredients": [
@@ -47,6 +49,7 @@
             {
                 "id": 3,
                 "title": "Dhokar Dalna",
+                "rattings": 4.2,
                 "description": "A vegetarian Bengali curry made with lentil cakes and potato.",
                 "image": "https://c.ndtvimg.com/2023-05/31e5nftg_kadhai_625x300_03_May_23.jpg?im=FaceCrop,algorithm=dnn,width=345,height=250?downsize=145:145",
                 "ingredients": [
@@ -74,6 +77,7 @@
             {
                 "id": 4,
                 "title": "Ras Malai",
+                "rattings": 5.0,
                 "description": "A popular Bengali dessert made with chhena (cottage cheese) and milk syrup.",
                 "image": "https://imagevars.gulfnews.com/2022/07/27/Ras-malai_1823fdf0779_large.jpg",
                 "ingredients": [
@@ -102,6 +106,7 @@
             {
                 "id": 5,
                 "title": "Aloo Posto",
+                "rattings": 3.8,
                 "description": "A popular Bengali vegetarian dish made with potatoes and poppy seeds.",
                 "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1",
                 "ingredients": [
@@ -119,6 +124,7 @@
             {
                 "id": 6,
                 "title": "Mishti Pulao",
+                "rattings": 4.7,
                 "description": "A sweet and aromatic Bengali rice dish made with raisins and cashews.",
                 "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg",
                 "ingredients": [
@@ -139,6 +145,7 @@
             {
                 "id": 7,
                 "title": "Begun Bhaja",
+                "rattings": 4.5,
                 "description": "A popular Bengali snack made with fried eggplant slices.",
                 "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bengali-Begun-Bhaja-2-1.jpg",
                 "ingredients": [
@@ -155,6 +162,7 @@
             {
                 "id": 8,
                 "title": "Rasmalai Cake",
+                "rattings": 4.3,
                 "description": "A fusion dessert combining traditional Bengali rasmalai with cake.",
                 "image": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2021/03/Eggless-Rasmalai-Cake-Recipe.jpg&nocache=1",
                 "ingredients": [
@@ -174,6 +182,7 @@
             {
                 "id": 9,
                 "title": "Machher Jhol",
+                "rattings": 4.9,
                 "description": "A simple Bengali fish curry made with vegetables and spices.",
                 "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg",
                 "ingredients": [
@@ -207,6 +216,7 @@
             {
                 "id": 10,
                 "title": "Kosha Mangsho",
+                "rattings": 5.0,
                 "description": "A slow-cooked Bengali mutton curry with a rich and spicy gravy.",
                 "image": "https://www.whiskaffair.com/wp-content/uploads/2021/01/Kosha-Mangsho-2-1.jpg",
                 "ingredients": [
@@ -233,6 +243,7 @@
             {
                 "id": 11,
                 "title": "Chhanar Payesh",
+                "rattings": 4.9,
                 "description": "A creamy and delicious Bengali dessert made with chhena (cottage cheese) and rice.",
                 "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/10/Chanar-payesh.jpg",
                 "ingredients": [
@@ -249,6 +260,7 @@
             {
                 "id": 12,
                 "title": "Macher Kalia",
+                "rattings": 4.1,
                 "description": "A spicy Bengali fish curry made with tomato and onion.",
                 "image": "https://kitchenofdebjani.com/wp-content/uploads/2018/10/Biyebarir-Macher-Kalia-Debjanir-Rannaghar.jpg",
                 "ingredients": [
@@ -273,6 +285,7 @@
             {
                 "id": 13,
                 "title": "Shukto",
+                "rattings": 4.5,
                 "description": "A traditional Bengali vegetarian dish made with bitter gourd and other vegetables.",
                 "image": "https://www.myfridayfoodswings.com/wp-content/uploads/2017/06/shukto-2.jpg",
                 "ingredients": [
@@ -298,6 +311,7 @@
             {
                 "id": 14,
                 "title": "Luchi",
+                "rattings": 4.6,
                 "description": "A popular Bengali deep-fried flatbread made with maida flour.",
                 "image": "https://i0.wp.com/www.foodieshutrecipes.com/wp-content/uploads/2019/06/Luchi-Mangsho-Gajarer-haluwa.jpg?w=1080&ssl=1",
                 "ingredients": [
@@ -312,6 +326,7 @@
             {
                 "id": 15,
                 "title": "Doi Maach",
+                "rattings": 4.8,
                 "description": "A tangy Bengali fish curry made with yogurt and spices.",
                 "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Sai_Priya/Doi_Maach_1600.jpg",
                 "ingredients": [
@@ -350,6 +365,7 @@
             {
                 "id": 16,
                 "title": "Shorshe Ilish",
+                "rattings": 4.0,
                 "description": "A delicious Bengali fish curry made with mustard paste and ilish (hilsa) fish.",
                 "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
                 "cooking_method": "To prepare Sorse Ilish, clean and wash the Hilsa fish thoroughly. Marinate the fish with salt and turmeric powder and keep it aside for 10-15 minutes. Grind mustard seeds with green chilies to form a smooth paste. Heat mustard oil in a pan until it is smoking hot. Add the mustard paste and sauté for a few minutes until the oil starts separating from the mixture. Add a cup of water to the mixture and let it come to a boil. Once the gravy starts boiling, add the marinated Hilsa fish to the pan. Reduce the heat to medium and cook the fish for 10-15 minutes or until it is cooked through. Turn off the heat and let it rest for a few minutes before serving. Sorse Ilish is best served with steamed rice and a side of green chillies.",
@@ -365,6 +381,7 @@
             {
                 "id": 17,
                 "title": "Aloo Posto",
+                "rattings": 4.5,
                 "description": "A classic Bengali vegetarian dish made with potato and poppy seeds.",
                 "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1",
                 "ingredients": [
@@ -382,6 +399,7 @@
             {
                 "id": 18,
                 "title": "Bhetki Paturi",
+                "rattings": 4.7,
                 "description": "A traditional Bengali fish dish marinated in spices and cooked in banana leaves.",
                 "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/moumita.malla-gmail.com/Bhetki_Macher_PaturiBarramundi_Fish_Wrapped_in_Banana_Leaf_original-3_1600.jpg",
                 "ingredients": [
@@ -401,6 +419,7 @@
             {
                 "id": 19,
                 "title": "Chingri Macher Malai Curry",
+                "rattings": 4.7,
                 "description": "A creamy Bengali prawn curry made with coconut milk and spices.",
                 "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg",
                 "ingredients": [
@@ -422,6 +441,7 @@
             {
                 "id": 20,
                 "title": "Mishti Doi",
+                "rattings": 4.5,
                 "description": "A sweet Bengali dessert made with caramelized sugar and yogurt.",
                 "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/02/mishti-doi-recipe02.jpg",
                 "ingredients": [
@@ -447,6 +467,7 @@
             {
                 "id": 21,
                 "title": "Mutton Rezala",
+                "rattings": 5.0,
                 "description": "A flavorful Bengali mutton curry made with yogurt and a variety of spices.",
                 "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Mutton_Rezala_.jpg",
                 "ingredients": [
@@ -473,6 +494,7 @@
             {
                 "id": 22,
                 "title": "Chingrir Malaikari",
+                "rattings": 4.7,
                 "description": "A rich and creamy Bengali prawn curry made with coconut milk and spices.",
                 "image": "https://twinklingtinacooks.com/wp-content/uploads/2021/04/chingri-malaikari-bengali-recipe-prawn-coconut-milk.jpg",
                 "ingredients": [
@@ -494,6 +516,7 @@
             {
                 "id": 23,
                 "title": "Shuktoni",
+                "rattings": 4.2,
                 "description": "A spicy Bengali side dish made with shukto and cooked with mustard oil.",
                 "image": "https://kitchenofdebjani.com/wp-content/uploads/2018/06/Shuktoni.jpg",
                 "ingredients": [
@@ -515,6 +538,7 @@
             {
                 "id": 24,
                 "title": "Misti Pulao",
+                "rattings": 4.8,
                 "description": "A sweet and fragrant Bengali rice dish made with saffron and raisins.",
                 "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg",
                 "ingredients": [
@@ -548,6 +572,7 @@
             {
                 "id": 25,
                 "title": "Aloo Posto",
+                "rattings": 4.5,
                 "description": "A popular Bengali vegetarian dish made with potatoes and poppy seeds.",
                 "image": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1",
                 "ingredients": [
@@ -565,6 +590,7 @@
             {
                 "id": 26,
                 "title": "Mishti Pulao",
+                "rattings": 4.1,
                 "description": "A sweet and aromatic Bengali rice dish made with raisins and cashews.",
                 "image": "https://www.whiskaffair.com/wp-content/uploads/2017/05/Mishti-Pulao-2-1.jpg",
                 "ingredients": [
@@ -585,6 +611,7 @@
             {
                 "id": 27,
                 "title": "Begun Bhaja",
+                "rattings": 4.7,
                 "description": "A popular Bengali snack made with fried eggplant slices.",
                 "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bengali-Begun-Bhaja-2-1.jpg",
                 "ingredients": [
@@ -601,6 +628,7 @@
             {
                 "id": 28,
                 "title": "Rasmalai Cake",
+                "rattings": 4.6,
                 "description": "A fusion dessert combining traditional Bengali rasmalai with cake.",
                 "image": "https://yourfoodfantasy.com/wp-content/webpc-passthru.php?src=https://yourfoodfantasy.com/wp-content/uploads/2021/03/Eggless-Rasmalai-Cake-Recipe.jpg&nocache=1",
                 "ingredients": [
@@ -620,6 +648,7 @@
             {
                 "id": 29,
                 "title": "Machher Jhol",
+                "rattings": 5.0,
                 "description": "A simple Bengali fish curry made with vegetables and spices.",
                 "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg",
                 "ingredients": [
